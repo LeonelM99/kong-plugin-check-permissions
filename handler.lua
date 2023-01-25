@@ -1,4 +1,4 @@
-local CheckPermissions = require "kong.plugins.check_permissions.check_permissions"
+local CheckPermissions = require "check_permissions"
 
 return {
   ["pre-function"] = CheckPermissions

@@ -1,5 +1,5 @@
 package = "kong-plugin-check-permissions"
-version = "0.1.2"
+version = "0.1.3"
 source = {
     url = "https://github.com/LeonelM99/kong-plugin-check-permissions.git"
 }

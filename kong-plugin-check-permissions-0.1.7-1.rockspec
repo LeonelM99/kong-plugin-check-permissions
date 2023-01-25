@@ -1,7 +1,7 @@
 package = "kong-plugin-check-permissions"
-version = "0.1.6-1"
+version = "0.1.7-1"
 source = {
-    url = "https://github.com/LeonelM99/kong-plugin-check-permissions.git"
+    url = "git+https://github.com/LeonelM99/kong-plugin-check-permissions.git"
 }
 dependencies = {
     "lua ~> 5.1"
